@@ -8,3 +8,7 @@
 ![Screenshot 2023-08-30 100147](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/c2467251-96d6-4169-973b-e419dc1a34ce)
 ## Xor chip
 ![Screenshot 2023-08-30 102424](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/e7c9b2bf-d7af-4365-a0c5-8aa4261ce655)
+## Mux chip
+![Screenshot 2023-09-02 094524](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/3712aeaf-fa71-4d1a-a3d3-1d12b4040e52)
+## DMux chip
+![Screenshot 2023-09-02 100148](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/71b6c11c-cd50-4ff2-b208-57a8facb13cc)
