@@ -12,3 +12,8 @@
 ![Screenshot 2023-09-02 094524](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/3712aeaf-fa71-4d1a-a3d3-1d12b4040e52)
 ## DMux chip
 ![Screenshot 2023-09-02 100148](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/71b6c11c-cd50-4ff2-b208-57a8facb13cc)
+## HalfAdder
+![Screenshot 2023-09-10 214801](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/7a82775b-eadc-4f5d-a070-a0aba4783e40)
+## FullAdder
+![Screenshot 2023-09-11 170816](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/39cad436-90d3-4d22-8748-a0984aed01fc)
+
