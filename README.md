@@ -22,3 +22,11 @@
 ![Screenshot 2023-09-16 145350](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/2841e819-74e2-417c-b27e-07b38bf21239)
 ## ALU
 ![Screenshot 2023-09-20 181004](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/4b02f7a6-d353-40b0-990e-aee785f47eb5)
+## Bit
+![Screenshot 2023-09-20 182339](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/28ea35b2-95df-429a-a8c9-6114a1c78445)
+## Register
+![Screenshot 2023-09-20 182836](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/22970997-4789-4b48-bae5-117442a326f3)
+## RAM8
+![Screenshot 2023-09-20 213015](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/8975ac1e-dd86-4747-aa47-b689f5525c51)
+## RAM64
+![Screenshot 2023-09-20 214920](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/85d0bfba-3f42-43e3-9b17-bc533f2ba184)
