@@ -14,6 +14,7 @@
 ![Screenshot 2023-09-02 100148](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/71b6c11c-cd50-4ff2-b208-57a8facb13cc)
 ## HalfAdder
 ![Screenshot 2023-09-10 214801](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/7a82775b-eadc-4f5d-a070-a0aba4783e40)
+
 ## FullAdder
 ![Screenshot 2023-09-11 170816](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/39cad436-90d3-4d22-8748-a0984aed01fc)
 ## Add16
@@ -30,3 +31,11 @@
 ![Screenshot 2023-09-20 213015](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/8975ac1e-dd86-4747-aa47-b689f5525c51)
 ## RAM64
 ![Screenshot 2023-09-20 214920](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/85d0bfba-3f42-43e3-9b17-bc533f2ba184)
+## RAM512
+![Screenshot 2023-09-21 182925](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/1f2fcc3b-dda1-4fa6-858d-885fa9521ecd)
+## RAM4K
+![Screenshot 2023-09-21 182708](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/eb4222d0-e8e2-4df6-9609-ad5e661aac7e)
+## RAM16K
+![Screenshot 2023-09-21 184538](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/fe8dce3a-7b2c-4ced-a478-61b2eca3b714)
+## PC
+![Screenshot 2023-09-21 221607](https://github.com/Anam-Ashraf7/nand2tetris-Part1/assets/139621294/c10af876-353d-4390-bf6b-ebf1acaefcc7)
